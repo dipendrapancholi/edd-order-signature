@@ -1,0 +1,21 @@
+#signature-pad canvas {
+	width: 100% !important;
+}
+#signature-pad {
+	background-color: #a9a9a9;
+	padding: 15px;
+	max-width: 600px;
+}
+.eddos-button {
+	background-color: #1a1a1a !important;
+	color: #ffffff !important;
+}
+.m-signature-pad--body{
+	background-color: #cccccc;
+    border: 4px dotted black;
+    margin-bottom: 10px;
+}
+.m-signature-title {
+	color: #0a018b;
+	font-weight: bold;
+}
